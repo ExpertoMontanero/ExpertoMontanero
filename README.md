@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ExpertoMontanero
 - 👀 I’m interested in running and technology
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me https://twitter.com/TomaszZ34007063
 
 <!---
