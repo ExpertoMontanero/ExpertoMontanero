@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ExpertoMontanero
-- 👀 I’m interested in running and technology
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me https://twitter.com/TomaszZ34007063
+- 👀 I’m interested in programming, running, videogames and technology
+- 🌱 I’m currently learning Web Development (Java Script, CSS, HTML, React, Node.js etc.)
+- 📫 How to reach me (https://www.instagram.com/t_zawadzkiii/)
 
 <!---
 ExpertoMontanero/ExpertoMontanero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
