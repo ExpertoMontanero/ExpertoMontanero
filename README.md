@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ExpertoMontanero
+- 👋 Hi, I’m @TomekZawadzki
 - 👀 I’m interested in programming, running, videogames and technology
 - 🌱 I’m currently learning Web Development (Java Script, CSS, HTML, React, Node.js etc.)
 - 📫 How to reach me (https://www.instagram.com/t_zawadzkiii/)
